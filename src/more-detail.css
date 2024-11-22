@@ -1,0 +1,26 @@
+.more-detail-books-card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    width: 100%;
+    background-color: #DCD2C8;
+    padding: 20px;
+    text-align: center;
+    border-top: 2px solid white;
+}
+
+.more-detail-books-content {
+    padding: 40px 0;
+}
+
+.back-btn{
+    margin: 20px 10px;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #57311E;
+    color: white;
+    cursor: pointer;
+}

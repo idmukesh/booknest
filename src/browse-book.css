@@ -1,0 +1,32 @@
+.browse-book-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 50px auto;
+}
+
+.search-container {
+    display: flex;
+}
+
+.search-container input {
+    display: inline-block;
+    max-width: 300px;
+    padding: 0 10px;
+    margin: 0 10px;
+
+}
+
+.search-input button,
+.category button {
+    margin: 0 10px;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #57311E;
+    color: white;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.category-books-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.category-books-section h2 {
+    margin-top: 20px;
+    color: #57311E;
+}
+
+.category-books-section button {
+    margin: 0 10px;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #57311E;
+    color: white;
+    cursor: pointer;
+}
